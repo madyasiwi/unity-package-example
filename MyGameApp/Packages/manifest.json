@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.mycompany.platform-sdk": "file:C:/Users/madya/Documents/work/tinker/unity-sdk-project/MyPlatformApp/Packages/MyPlatformSDK",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ext.nunit": "1.0.0",
     "com.unity.ide.rider": "1.1.0",
